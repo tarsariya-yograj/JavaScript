@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+   }
+   h2{
+    padding-bottom: 15px;
+
+   }
+    button{
+        background-color: rgb(205, 214, 65);
+        color: rgb(255, 255, 255);
+        border: 1px solid rgb(255, 255, 255);
+        border-radius: 15px;
+        padding: 15px;
+        cursor: pointer;
+        width: 200px;
+    }
+    button:hover{
+        background-color: rgba(7, 4, 4, 0.33);
+        color: rgb(255, 255, 255);
+       
+    }
+    #product div {
+        text-align: center;
+        margin: 50px;
+        border-radius: 15px;
+        padding: 20px;
+    }
+    #product i
+    {
+        font-size: 15px;            
+    }
